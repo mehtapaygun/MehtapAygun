@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Mehtap Aygün 🤍 </h1>
-<h3 align="center">A mobile developer from Turkey  <img src="![image](https://github.com/mehtapaygun/MehtapAygun/assets/103212238/751ca7b2-2418-409b-9243-7d6493011447)
-" alt="GitHub Star 2023"/> </h3>
+<h3 align="center">A mobile developer from Turkey </h3>
 
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+    <img src="[https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632](https://cdn.dribbble.com/users/906441/screenshots/16080750/media/99d65a08f9f60ffd23eaf4e504aa3d20.mp4)" alt="GitHub Star 2023"/></a>
 </p>
 
 <div align="left"> 
