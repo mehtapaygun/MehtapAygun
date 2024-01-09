@@ -2,7 +2,7 @@
 <h3 align="center">A mobile developer from Turkey </h3>
 
 <p align="center">
-<img src="https://github.com/mehtapaygun/MehtapAygun/assets/103212238/1d6223ce-fd66-488f-bdba-cfd7fb7e69b5" width="400" height="220" />
+<img src="https://github.com/mehtapaygun/MehtapAygun/assets/103212238/1d6223ce-fd66-488f-bdba-cfd7fb7e69b5" width="500" height="300" />
 </p>
 
 
