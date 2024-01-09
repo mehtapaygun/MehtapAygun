@@ -2,8 +2,8 @@
 <h3 align="center">A mobile developer from Turkey </h3>
 
 <p align="center">
- <video width="100" height="50" src="![github](https://github.com/mehtapaygun/MehtapAygun/assets/103212238/6d1f2b7f-8602-4c24-8fdd-fb8979a0b667)
-"></video>
+![github](https://github.com/mehtapaygun/MehtapAygun/assets/103212238/6d1f2b7f-8602-4c24-8fdd-fb8979a0b667)
+
 </p>
 
 <div align="left"> 
