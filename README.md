@@ -2,10 +2,11 @@
 <h3 align="center">A mobile developer from Turkey </h3>
 
 <p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-   <video controls> 
-<source src="[https://cdn.dribbble.com/users/906441/screenshots/16080750/media/99d65a08f9f60ffd23eaf4e504aa3d20.mp4](https://cdn.dribbble.com/users/906441/screenshots/16080750/media/99d65a08f9f60ffd23eaf4e504aa3d20.mp4)" type="video/mp4" >
-    </video></a>
+  
+
+https://github.com/mehtapaygun/MehtapAygun/assets/103212238/8a3469be-b0b4-489f-bd5b-b525dbbb9ff9
+
+
 </p>
 
 <div align="left"> 
