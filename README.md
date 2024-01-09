@@ -1,17 +1,16 @@
 <h1 align="center">Hi, I'm Mehtap Aygün 🤍 </h1>
 <h3 align="center">A mobile developer from Turkey</h3>
 
-<div align="left"> 
-    <p>🔭 I’m currently working on <a href="https://github.com/chefCup">Chef Cup</a></p>
-    <p>🌱 I’m currently learning <strong>Flutter</strong></p>
-    <p>📫 <a href="mailto:mehtap.aygun@icloud.com">mehtap.aygun@icloud.com</a></p>
-</div>
-
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 
+<div align="left"> 
+    <p>🔭 I’m currently working on <a href="https://github.com/chefCup">Chef Cup</a></p>
+    <p>🌱 I’m currently learning <strong>Flutter</strong></p>
+    <p>📫 <a href="mailto:mehtap.aygun@icloud.com">mehtap.aygun@icloud.com</a></p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
