@@ -4,7 +4,7 @@
 <div align="center"> 
     <p>🔭 I’m currently working on <a href="https://github.com/chefCup">Chef Cup</a></p>
     <p>🌱 I’m currently learning <strong>Flutter</strong></p>
-    <p>📫 How to reach me <a href="mailto:mehtap.aygun@icloud.com">mehtap.aygun@icloud.com</a></p>
+    <p>📫 <a href="mailto:mehtap.aygun@icloud.com">mehtap.aygun@icloud.com</a></p>
 </div>
 
 
