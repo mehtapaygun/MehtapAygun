@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mehtap Aygün 🤍 </h1>
 <h3 align="center">A mobile developer from Turkey </h3>
 
-
+<p align="left">
 ![github](https://github.com/mehtapaygun/MehtapAygun/assets/103212238/6d1f2b7f-8602-4c24-8fdd-fb8979a0b667)
-
+</p>
 
 
 <div align="left"> 
