@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mehtap Aygün 🤍 </h1>
 <h3 align="center">A mobile developer from Turkey</h3>
 
-<div align="center"> 
+<div align="left"> 
     <p>🔭 I’m currently working on <a href="https://github.com/chefCup">Chef Cup</a></p>
     <p>🌱 I’m currently learning <strong>Flutter</strong></p>
     <p>📫 <a href="mailto:mehtap.aygun@icloud.com">mehtap.aygun@icloud.com</a></p>
