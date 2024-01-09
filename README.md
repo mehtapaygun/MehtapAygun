@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://github.com/mehtapaygun/MehtapAygun/assets/103212238/1d6223ce-fd66-488f-bdba-cfd7fb7e69b5](https://github.com/mehtapaygun/MehtapAygun/assets/103212238/1678e491-64ec-4d3c-9bcc-cf5f41c7e84b)"/>
+<img src="https://github.com/mehtapaygun/MehtapAygun/assets/103212238/1678e491-64ec-4d3c-9bcc-cf5f41c7e84b"/>
 </p>
 
 
