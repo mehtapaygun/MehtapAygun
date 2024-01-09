@@ -4,8 +4,7 @@
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
    <video controls> 
-<source src="![image](https://github.com/mehtapaygun/MehtapAygun/assets/103212238/e6a72cfc-664b-4eee-b036-21cff6818a56)
-" type="video/mp4" >
+<source src="https://cdn.dribbble.com/users/906441/screenshots/16080750/media/99d65a08f9f60ffd23eaf4e504aa3d20.mp4" >
     </video></a>
 </p>
 
